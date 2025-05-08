@@ -2,7 +2,6 @@
 # coding: utf-8
 
 # # Loan Elegibility
-# By Mohammad Kanaan and Mohammad Awela
 
 # ## Problem Statement
 # Dream Housing Finance company deals in all home loans. They have a presence across
